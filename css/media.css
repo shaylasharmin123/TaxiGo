@@ -1,0 +1,263 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+header {
+    padding: 5px 0;
+}
+.logo {
+    font-size: 40px;
+}
+.menu ul li a {
+    padding: 0 10px 12px !important;
+}
+/*banner start*/
+.b_text {
+    text-align: center;
+    padding: 80px 0;
+} 
+.b_h1 {
+    margin: 10px 0 20px;
+    font-size: 35px;
+    line-height: 45px;
+}
+.b_p2 {
+    margin: 0;
+    line-height: 30px;
+ }
+ .b_img {
+    margin: 0 0 30px;
+}
+/*about us start*/
+.a_text {
+    padding: 60px 30px ;
+}
+.a_h1 {
+    font-size: 30px;
+}
+.a_img {
+    padding-top: 30px;
+}
+/*call now start*/
+.c_text {
+    padding: 60px 0;
+}
+.call_h1 {
+    padding: 15px 0;
+}
+.cm_h1 {
+    font-size: 30px;
+}
+.btn_call {
+    padding: 15px;
+}
+/*choose start*/
+.choose {
+    padding: 60px 0;
+}
+.item {
+    border-right: none;
+    padding: 30px;
+}
+/*brand start*/
+.brand_img {
+    text-align: center;
+}
+/*people start*/
+.people {
+    padding: 60px 0;
+}
+.people_item {
+    margin-top: 20px;
+}
+/*footer start*/
+.taxi_ft {
+    padding: 60px 0;
+    text-align: center;
+}
+.ft_h6 {
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+header {
+    padding: 5px 0;
+}
+.logo {
+    width: 180px;
+}
+.menu ul li a {
+    padding: 0 10px 12px !important;
+}
+.btn_sin {
+    margin-left: 5px;
+}	
+/*banner start*/
+.b_text {
+    text-align: center;
+    padding: 80px 0;
+} 
+.b_h1 {
+    margin: 10px 69px 20px;
+    font-size: 35px;
+    line-height: 45px;
+}
+.b_p2 {
+    margin: 0 50px;
+    line-height: 30px;
+ }
+ .b_img {
+    margin: 0 50px 30px;
+}
+/*about us start*/
+.a_text {
+    padding: 80px 30px ;
+}
+.a_img {
+    padding-top: 30px;
+}
+/*call now start*/
+.c_text {
+    padding: 80px 0;
+}
+.call_h1 {
+    padding: 15px 0;
+}
+.cm_h1 {
+    font-size: 42px;
+}
+.btn_call {
+    padding: 15px;
+}
+/*choose start*/
+.choose {
+    padding: 60px 0;
+}
+.item {
+    border-right: none;
+    padding: 30px;
+}
+/*brand start*/
+.brand_img {
+    text-align: center;
+}
+/*people start*/
+.people {
+    padding: 60px 0;
+}
+.people_item {
+    margin-top: 20px;
+}
+/*footer start*/
+.taxi_ft {
+    padding: 60px 0;
+    text-align: center;
+}
+.ft_h6 {
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/	
+.menu ul li a {
+    padding: 5px 10px 12px !important;
+}
+/*banner start*/
+.b_text {
+    text-align: center;
+    padding: 100px 0px;
+} 
+.b_h1 {
+    margin: 10px 100px 20px;
+}
+.b_p2 {
+    margin: 0 100px;
+ }
+ .b_img {
+    margin: 0 50px 30px;
+}
+/*about us start*/
+.a_text {
+    padding: 80px 30px ;
+}
+.a_img {
+    padding-top: 30px;
+}
+/*call now start*/
+.c_text {
+    padding: 80px 0;
+}
+.call_h1 {
+    padding: 15px 0;
+}
+.cm_h1 {
+    font-size: 42px;
+}
+.btn_call {
+    padding: 15px;
+}
+/*choose start*/
+.item {
+    border-right: none;
+    padding: 30px 150px;
+}
+/*people start*/
+.people {
+    padding: 60px 0;
+}
+.people_item {
+    margin-top: 20px;
+}
+/*footer start*/
+.taxi_ft {
+    padding: 60px 0;
+}
+.ft_h6 {
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*banner start*/
+.b_h1 {
+    margin: 8px 41px 20px 0;
+}
+/*call now start*/
+.c_text {
+    padding: 60px 0;
+}
+.call_h1 {
+    padding: 15px 0;
+}
+.cm_h1 {
+    font-size: 42px;
+}
+.btn_call {
+    padding: 15px;
+}
+/*people start*/
+.people_item {
+    padding: 43px 12px;
+}
+/*footer start*/
+.fc_c i {
+    margin-right: 12px;
+}
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+/*banner start*/
+.b_h1 {
+    margin: 10px 111px 20px 0;
+}
+}
